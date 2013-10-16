@@ -266,7 +266,6 @@
   <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
@@ -442,7 +441,6 @@
 
   <project path="system/core" name="android_system_core" remote="bam" revision="jellybean" />
 
-  <project path="vendor/bam" name="android_vendor_BAM-Rom" remote="bam" revision="jellybean" />
   <project path="vendor/htc" name="android_vendor_htc" remote="bam" revision="jellybean" />
 
   <project path="builder" name="BAM-Rom" remote="bam" revision="jellybean" >
@@ -464,7 +462,6 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="jcg" groups="pdk" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jcg" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jcg" revision="jellybean" />
-  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="jcg" />
   <project path="platform_manifest" name="platform_manifest" remote="jcg" revision="jellybean" />
   <project path="vendor/bam" name="android_vendor_BAM-Rom" remote="jcg" revision="jellybean" />
 
