@@ -457,7 +457,7 @@
   </project>
   
     <!-- Jaiglissechef -->
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="jcg" groups="pdk" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="jcg" groups="pdk" />
   <project path="frameworks/base" name="android_frameworks_base" remote="jcg" revision="jellybean" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="jcg" groups="pdk" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jcg" revision="jellybean" />
