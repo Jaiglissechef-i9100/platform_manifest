@@ -461,9 +461,9 @@
   
     <!-- Jaiglissechef -->
   <project path="frameworks/av" name="android_frameworks_av" remote="jcg" groups="pdk" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="jcg" revision="jellybean" />
+  <project path="frameworks/base" name="frameworks_base" remote="jcg" revision="jellybean" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="jcg" groups="pdk" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jcg" revision="jellybean" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jcg" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jcg" revision="jellybean" />
   <project path="platform_manifest" name="platform_manifest" remote="jcg" revision="jellybean" />
   <project path="vendor/bam" name="android_vendor_BAM-Rom" remote="jcg" revision="jellybean" />
